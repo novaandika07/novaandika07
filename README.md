@@ -43,13 +43,7 @@
 
 </div>
 
-## 📌 Proyek Unggulan
 
-| Proyek | Deskripsi | Teknologi |
-|--------|-----------|-----------|
-| [GANTI nama proyek](link-repo) | Deskripsi singkat | Python, scikit-learn |
-| [GANTI nama proyek](link-repo) | Deskripsi singkat | Django, MySQL |
-| [GANTI nama proyek](link-repo) | Deskripsi singkat | Laravel, MySQL |
 
 ## 📫 Kontak
 
